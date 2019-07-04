@@ -1,0 +1,10 @@
+{
+  "name": "xs-cli",
+  "version": "{{version}}",
+  "description": "{{description}}",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "{{author}}",
+  "license": "ISC"
+}
