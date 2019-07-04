@@ -1,5 +1,5 @@
 {
-  "name": "xs-cli",
+  "name": "{{name}}",
   "version": "{{version}}",
   "description": "{{description}}",
   "scripts": {
